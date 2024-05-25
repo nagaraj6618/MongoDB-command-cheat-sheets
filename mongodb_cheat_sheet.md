@@ -8,31 +8,31 @@ show dbs
 
 ## Show Current Database
 
-```
+```js
 db
 ```
 
 ## Create Or Switch Database
 
-```
+```js
 use acme
 ```
 
 ## Drop
 
-```
+```js
 db.dropDatabase()
 ```
 
 ## Create Collection
 
-```
+```js
 db.createCollection('posts')
 ```
 
 ## Show Collections
 
-```
+```js
 show collections
 ```
 
