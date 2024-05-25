@@ -1,6 +1,6 @@
 # MongoDB Example Cheat Sheet
 
-# CURD 
+# CRUD 
 
 ## Create 
 
